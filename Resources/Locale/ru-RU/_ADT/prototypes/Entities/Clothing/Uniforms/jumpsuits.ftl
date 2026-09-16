@@ -65,3 +65,59 @@ ent-ADTClothingUniformJumpsuitTurtleneckWhiteSleeveless = белая водол�
 ent-ADTClothingUniformJumpsuitTurtleneckWhiteBlackSleeveless = чёрно-белая водолазка
     .desc = Практичная и удобная водолазка чёрно-белого цвета. На бирке можно заметить "Modeling Agency Dar-Vaxed".
     .suffix = { "" }
+
+ent-ADTClothingUniformJumpsuitTuxedo = смокинг
+    .desc = Стильный и опрятный чёрный смокинг. Тот, кто его носит, либо агент, либо идёт на романтический ужин.
+
+ent-ADTClothingUniformJumpsuitTuxedoWhite = белый смокинг
+    .desc = Стильный и опрятный белый смокинг. Взболтать, но не смешивать!
+
+ent-ADTClothingUniformJumpsuitTuxedoRed = красный смокинг
+    .desc = Стильный и опрятный красный смокинг. О, это же отсылка на то самое, да???
+
+ent-ADTClothingUniformJumpsuitTuxedoHell = адский смокинг
+    .desc = Стильный и опрятный смокинг с галстуком и красной рубашкой. Демонесса в комплект не входит.
+
+ent-ADTClothingUniformJumpsuitBlackShirt = чёрная рубашка
+    .desc = Обычная черная повседневная рубашка. Производство компании "Modeling Agency Dar-Vaxed".
+    .suffix = { "" }
+
+ent-ADTClothingUniformJumpsuitBlueShirt = синяя рубашка
+    .desc = Обычная синяя повседневная рубашка. Производство компании "Modeling Agency Dar-Vaxed".
+    .suffix = { "" }
+
+ent-ADTClothingUniformJumpsuitPurpleShirt = фиолетовая рубашка
+    .desc = Обычная фиолетовая повседневная рубашка. Производство компании "Modeling Agency Dar-Vaxed".
+    .suffix = { "" }
+
+ent-ADTClothingUniformJumpsuitRedShirt = красная рубашка
+    .desc = Обычная красная повседневная рубашка. Производство компании "Modeling Agency Dar-Vaxed".
+    .suffix = { "" }
+
+ent-ADTClothingUniformJumpsuitWhiteShirt = белая рубашка
+    .desc = Обычная белая повседневная рубашка. Производство компании "Modeling Agency Dar-Vaxed".
+    .suffix = { "" }
+
+ent-ADTClothingUniformJumpsuitFancyShirt = причудливая рубашка
+    .desc = Не знаю даже, как он сюда попал...
+    .suffix = { "" }
+
+ent-ADTClothingUniformJumpsuitRedPlaidShirt = красная рубашка в клетку
+    .desc = Пахнет барбекю... Производство компании  "Modeling Agency Dar-Vaxed"
+
+ent-ADTClothingUniformJumpsuitOldGreySuit = старый серый костюм
+    .desc = Сам костюм новый, но дизайн довольно устаревший, опираясь на текущей стиль компании "Modeling Agency Dar-Vaxed". Удивительно, что этот комплект одежды находится в продаже.
+    .suffix = { "" }
+
+ent-ADTClothingUniformJumpsuitOldBrownSuit = старый коричневый костюм
+    .desc = Тщательно ухоженная белая рубашка с коричневым пиджаком. Возможно он был ярко-коричневым, пока не выцвел. Производство компании "Modeling Agency Dar-Vaxed".
+    .suffix = { "" }
+
+ent-ADTClothingUniformJumpsuitDenimPants = джинсовые штаны
+    .desc = Брюки из джинсовой ткани.
+
+ent-ADTClothingUniformJumpsuitBlackPants = чёрные штаны
+    .desc = Обычные брюки чёрного цвета.
+
+ent-ADTClothingUniformJumpsuitWhitePants = белые штаны
+    .desc = Обычные брюки белого цвета.
