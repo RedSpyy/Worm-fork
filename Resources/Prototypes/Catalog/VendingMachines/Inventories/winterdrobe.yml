@@ -25,6 +25,16 @@
     ClothingNeckScarfStripedOrange: 3
     ClothingNeckScarfStripedPurple: 3
     #Wormix-Start
+    #длинные шарфы
+    ADTClothingNeckScarfLongRed: 3
+    ADTClothingNeckScarfLongGreen: 3
+    ADTClothingNeckScarfLongBlue: 3
+    ADTClothingNeckScarfLongYellow: 3
+    ADTClothingNeckScarfLongOrange: 3
+    ADTClothingNeckScarfLongPink: 3
+    ADTClothingNeckScarfLongPurple: 3
+    ADTClothingNeckScarfLongBlack: 3
+    ADTClothingNeckScarfLongWhite: 3
     #лицевые шарфы
     ADTClothingNeckFacescarfBlack: 3
     ADTClothingNeckFacescarfBlue: 3
