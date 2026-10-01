@@ -1,0 +1,95 @@
+# Головные уборы
+- type: loadout
+  id: ExtraClothingHeadHatGreyFlatcap
+  storage:
+    back:
+    - ClothingHeadHatGreyFlatcap
+  groupBy: "ExtraClothingHead"
+
+
+
+# Очки
+#- type: loadout #такая категория уже есть, скорее надо добавить её, чем создавать новую. Пока пусть останется тут как шаблон
+#  id: ExtraClothingEyesGlassesJamjar
+#  storage:
+#    back:
+#    - ClothingEyesGlassesJamjar
+#  groupBy: "ExtraClothingNeck"
+
+
+
+# Шарфы, плащи, галстуки
+- type: loadout
+  id: ExtraClothingNeckTieDet
+  storage:
+    back:
+    - ClothingNeckTieDet
+  groupBy: "ExtraClothingNeck"
+
+
+
+# Маска
+- type: loadout
+  id: ExtraClothingMaskBandBlack
+  storage:
+    back:
+    - ClothingMaskBandBlack
+  groupBy: "ExtraClothingMask"
+
+
+
+# Комбинезоны
+- type: loadout
+  id: ExtraClothingUniformJumpsuitDameDane
+  storage:
+    back:
+    - ClothingUniformJumpsuitDameDane
+  groupBy: "ExtraClothingUniform"
+
+
+
+# Верхняя одежда
+- type: loadout
+  id: ExtraClothingOuterDameDane
+  storage:
+    back:
+    - ClothingOuterDameDane
+  groupBy: "ExtraClothingOuterClothing"
+
+
+
+# Перчатки
+- type: loadout
+  id: ExtraClothingHandsGlovesFingerless
+  storage:
+    back:
+    - ClothingHandsGlovesFingerless
+  groupBy: "ExtraClothingGloves"
+
+
+
+# Ботинки
+- type: loadout
+  id: ExtraClothingShoesBootsBerrci
+  storage:
+    back:
+    - ClothingShoesBootsBerrci
+  groupBy: "ExtraClothingShoes"
+
+
+
+# Пояса
+#- type: loadout #для всяких подтяжек и ремешков
+#  id: ExtraClothingBeltSuspendersBlack
+#  inhand: #выдача в руку чтоб не падало на пол
+#  - ClothingBeltSuspendersBlack
+#  groupBy: "ExtraClothingBelt"
+
+
+
+# Рюкзаки и сумки
+#- type: loadout #такая категория уже есть, скорее надо добавить её к ролям, чем создавать новую. Пока пусть останется тут как шаблон
+#  id: ExtraClothingBackpackSatchelLeather
+#  inhand: #выдача в руку чтоб не падало на пол
+#  - ClothingBackpackSatchelLeather
+#  groupBy: "ExtraClothingBack"

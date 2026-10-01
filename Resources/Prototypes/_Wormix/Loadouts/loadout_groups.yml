@@ -1,0 +1,26 @@
+- type: loadoutGroup
+  id: ExtraClothing
+  name: loadout-group-animals
+  minLimit: 0
+  maxLimit: 8 #10 если учитывать пояса и рюкзаки
+  loadouts:
+    # головные уборы
+    - ExtraClothingHeadHatGreyFlatcap
+    # очки
+    #- ExtraClothingEyesGlassesJamjar
+    # шарфы, плащи, галстуки
+    - ExtraClothingNeckTieDet
+    # маски, банданы
+    - ExtraClothingMaskBandBlack
+    # комбинезоны
+    - ExtraClothingUniformJumpsuitDameDane
+    # верхняя одежда
+    - ExtraClothingOuterDameDane
+    # перчатки
+    - ExtraClothingHandsGlovesFingerless
+    # ботинки
+    - ExtraClothingShoesBootsBerrci
+    # пояса
+    #- ExtraClothingBeltSuspendersBlack
+    # рюкзаки и сумки
+    #- ExtraClothingBackpackSatchelLeather
