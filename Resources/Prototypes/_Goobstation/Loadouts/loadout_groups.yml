@@ -1476,7 +1476,7 @@
   - CMOMedicalHeadMirror
   - SecurityBeret
   - SecurityHat
-  - TrooperHat
+  - HeadBandRed
 
 - type: loadoutGroup
   id: BrigmedicOuterClothing
