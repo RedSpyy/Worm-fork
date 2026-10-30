@@ -1,0 +1,30 @@
+# Детектив
+- type: loadoutGroup
+  id: DetectiveBackpack
+  name: loadout-group-detective-backpack
+  minLimit: 0
+  maxLimit: 1
+  loadouts:
+    - SecurityBackpack
+    - SecuritySatchel
+    - SecurityDuffel
+    - SecurityMessenger
+    - DetectiveSatchelLeather
+
+- type: loadoutGroup
+  id: DetectiveBelt
+  name: loadout-group-detective-belt
+  loadouts:
+    - DetectiveBeltHolster
+    - SecurityBelt
+
+- type: loadoutGroup
+  id: DetectiveShoes
+  name: loadout-group-security-shoes
+  loadouts:
+    - LaceupShoes
+    - BrownShoes
+    - DetectiveLeatherShoes
+    - DetectiveJackBoots
+    - JackBoots
+    - BootsWinterSec

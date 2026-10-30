@@ -1,0 +1,28 @@
+# Head
+- type: loadout
+  id: DetectiveFedoraOld
+  equipment:
+    head: ADTClothingHeadOldFedora
+
+#Belt
+- type: loadout
+  id: DetectiveBeltHolster
+  equipment:
+    belt: ClothingBeltHolster
+
+#Back
+- type: loadout
+  id: DetectiveSatchelLeather
+  equipment:
+    back: ClothingBackpackSatchelLeather
+
+#Boots
+- type: loadout
+  id: DetectiveJackBoots
+  equipment:
+    shoes: ADTClothingShoesOldDetectiveBoots
+
+- type: loadout
+  id: DetectiveLeatherShoes
+  equipment:
+    shoes: ClothingShoesLeather

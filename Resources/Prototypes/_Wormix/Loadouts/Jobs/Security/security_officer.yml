@@ -1,0 +1,29 @@
+# Head
+- type: loadout # Goobstation
+  id: HeadBandRed
+  equipment:
+    head: ClothingHeadBandRed
+
+# Jumpsuit
+- type: loadout
+  id: JumpsuitSecBlue
+  equipment:
+    jumpsuit: ClothingUniformJumpsuitSecBlue
+
+# Outerclothing
+- type: loadout
+  id: WinterSec
+  equipment:
+    outerClothing: ClothingOuterWinterSec
+
+- type: loadout
+  id: SecurityOvercoat
+  equipment:
+    outerClothing: ClothingOuterCoatSecurityOvercoat
+
+# Shoes
+- type: loadout
+  id: BootsWinterSec
+  equipment:
+    shoes: ClothingShoesBootsWinterSec
+

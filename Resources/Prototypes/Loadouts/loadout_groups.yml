@@ -1450,6 +1450,7 @@
     - SecurityHelmetAlt # Goobstation
     - SecurityBeret
     - SecurityHat
+    - HeadBandRed
     - TrooperHat
     - SideCap
 
@@ -1468,6 +1469,7 @@
     - VeteranOfficerBlackJumpsuit # Goobstation
     - SecurityMJ # Goob
     - SecurityMJSenior # Goob
+    - JumpsuitSecBlue # Wormix-Edit
 
 - type: loadoutGroup
   id: SecurityBackpack
@@ -1492,7 +1494,8 @@
   loadouts:
     - ArmorVest
     - ArmorVestSlim
-    - SecurityOfficerWintercoat
+    - SecurityOvercoat
+    - WinterSec # Wormix-Edit
     - WinterCoatSeniorSecArmored # Goobstation
     - VeteranOfficerArmor # Goobstation
 
@@ -1502,8 +1505,10 @@
   loadouts:
     - JackBoots
     - CombatBoots # Goobstation
-    - SecurityWinterBoots
     - ClothingShoesSwatBoots # CorvaxGoob
+    - BootsWinterSec # Wormix-Edit
+
+
 
 - type: loadoutGroup
   id: SecurityPDA
@@ -1527,6 +1532,10 @@
   loadouts:
     - DetectiveFedora
     - DetectiveFedoraGrey
+    # Wormix-Edit
+    - DetectiveFedoraOld
+    - SecurityBeret
+    - SideCap
 
 - type: loadoutGroup
   id: DetectiveNeck
@@ -1544,12 +1553,16 @@
     - DetectiveJumpskirt
     - NoirJumpsuit
     - NoirJumpskirt
+    - JumpsuitSecBlue # Wormix-Edit
 
 - type: loadoutGroup
   id: DetectiveOuterClothing
   name: loadout-group-detective-outerclothing
-  loadouts:
+  loadouts: # Wormix-Edit
     - DetectiveArmorVest
+    - ArmorVest
+    - ArmorVestSlim
+    - WinterSec
     - DetectiveCoat
     - DetectiveCoatGrey
     - DetectiveCoatBlack # CorvaxGoob

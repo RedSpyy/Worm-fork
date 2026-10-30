@@ -766,10 +766,11 @@
   - Inventory # CorvaxGoob-loadouts
   - DetectiveHead
   - DetectiveNeck
+  - DetectiveBelt # Wormix-Edit
   - DetectiveJumpsuit
-  - SecurityBackpack
+  - DetectiveBackpack
   - DetectiveOuterClothing
-  - SecurityShoes
+  - DetectiveShoes # Wormix-Edit
   - DetectiveGloves
   - SurvivalSecurity
   - Trinkets
