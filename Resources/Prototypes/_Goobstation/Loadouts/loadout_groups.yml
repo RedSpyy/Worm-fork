@@ -1422,8 +1422,11 @@
   name: loadout-group-hos-shoes
   loadouts:
   - JackBoots
-  - SecurityWinterBoots
+  - CombatBoots # Wormix-Edit
+  - ClothingShoesSwatBoots # Wormix-Edit
   - AdvancedJackBoots
+  - BootsWinterSec # Wormix-Edit
+  - DetectiveJackBoots # Wormix-Edit
 
 - type: loadoutGroup
   id: HeadofSecurityEnvirohelm

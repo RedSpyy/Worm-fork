@@ -1,0 +1,26 @@
+# Jumpsuit
+- type: loadout
+  id: JumpsuitHoSGrey
+  equipment:
+    jumpsuit: ClothingUniformJumpsuitHoSGrey
+  groupBy: "jumpsuit"
+
+- type: loadout
+  id: JumpskirtSecGrey
+  equipment:
+    jumpsuit: ClothingUniformJumpskirtSecGrey
+  groupBy: "jumpskirt"
+
+
+# Head
+- type: loadout
+  id: HatCapHoS
+  equipment:
+    head: ClothingHeadHatCapHoS
+
+
+# OuterClothing
+- type: loadout
+  id: CoatHoSGreatcoat
+  equipment:
+    outerClothing: ClothingOuterCoatHoSGreatcoat
