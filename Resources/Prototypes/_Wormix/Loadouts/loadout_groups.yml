@@ -2,7 +2,7 @@
 - type: loadoutGroup
   id: DetectiveBackpack
   name: loadout-group-detective-backpack
-  minLimit: 0
+  minLimit: 1
   maxLimit: 1
   loadouts:
     - SecurityBackpack
@@ -16,7 +16,8 @@
   name: loadout-group-detective-belt
   loadouts:
     - DetectiveBeltHolster
-    - SecurityBelt
+    - SecurityBeltEmpty
+    - SecurityPistolHolsterEmpty
 
 - type: loadoutGroup
   id: DetectiveShoes
@@ -29,6 +30,14 @@
     - JackBoots
     - BootsWinterSec
 
+- type: loadoutGroup
+  id: DetectiveWeapon
+  name: loadout-group-detective-weapon
+  minLimit: 1
+  maxLimit: 1
+  loadouts:
+    - DetectiveWeaponInspector
+
 #ГСБ
 - type: loadoutGroup
   id: HeadOfSecurityMask
@@ -36,3 +45,38 @@
   minLimit: 0
   loadouts:
     - GasSwat
+
+# Пояса
+- type: loadoutGroup
+  id: SecurityBeltEmpty
+  name: loadout-group-security-belt
+  loadouts:
+    - SecurityBeltEmpty
+    - SecurityWebbingEmpty
+    - SecurityPistolHolsterEmpty
+    - SecurityJudoBeltEmpty
+
+# Наполнение поясов
+- type: loadoutGroup
+  id: SecurityFillingBelt
+  name: loadout-group-security-belt-filling
+  minLimit: 1
+  maxLimit: 6
+  loadouts:
+    - SecurityBeltFillStandard
+    - SecurityJudoBeltFillStandard
+    - WeaponDisabler
+    - Stunbaton
+    - PolymerBaton
+    - Handcuffs
+    - ZiptiesTwo
+    - BolaEnergy
+    - Flash
+    - PepperSpray
+    - TearGasGrenade
+    - GrenadeFlashBang
+    - GrenadeStinger
+    - RadioHandheldSecurity
+    - HoloprojectorSecurity
+    - PanicButton
+

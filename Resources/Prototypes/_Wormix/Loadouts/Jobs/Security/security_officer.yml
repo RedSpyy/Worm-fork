@@ -27,3 +27,145 @@
   equipment:
     shoes: ClothingShoesBootsWinterSec
 
+
+#Belt
+- type: loadout
+  id: SecurityBeltEmpty
+  equipment:
+    belt: ClothingBeltSecurity
+
+- type: loadout
+  id: SecurityWebbingEmpty
+  equipment:
+    belt: ClothingBeltSecurityWebbing
+
+- type: loadout
+  id: SecurityPistolHolsterEmpty
+  equipment:
+    belt: ClothingBeltPistolHolster
+
+- type: loadout
+  id: SecurityJudoBeltEmpty
+  equipment:
+    belt: ClothingBeltCorporateJudo
+
+#Fill
+- type: loadout
+  id: SecurityBeltFillStandard
+  dummyEntity: ClothingBeltSecurityFilled
+  storage:
+    belt:
+    - Stunbaton
+    - Handcuffs
+    - Handcuffs
+    - HoloprojectorSecurity
+    - RadioHandheldSecurity
+    - WeaponDisabler
+
+- type: loadout
+  id: SecurityJudoBeltFillStandard
+  dummyEntity: ClothingBeltCorporateJudo
+  storage:
+    belt:
+    - Handcuffs
+    - Handcuffs
+    - HoloprojectorSecurity
+    - RadioHandheldSecurity
+    - WeaponDisabler
+
+#эксперименты
+- type: loadout
+  id: Stunbaton
+  storage:
+    belt:
+    - Stunbaton
+  groupBy: "secBatons"
+
+- type: loadout
+  id: PolymerBaton
+  storage:
+    belt:
+    - PolymerBaton
+  groupBy: "secBatons"
+
+- type: loadout
+  id: WeaponDisabler
+  storage:
+    belt:
+    - WeaponDisabler
+
+- type: loadout
+  id: Handcuffs
+  storage:
+    belt:
+    - Handcuffs
+  groupBy: "handcuffs"
+
+- type: loadout
+  id: ZiptiesTwo
+  dummyEntity: Zipties
+  storage:
+    belt:
+    - Zipties
+    - Zipties
+  groupBy: "handcuffs"
+
+- type: loadout
+  id: TearGasGrenade
+  storage:
+    belt:
+    - TearGasGrenade
+  groupBy: "secGrenade"
+
+- type: loadout
+  id: GrenadeFlashBang
+  storage:
+    belt:
+    - GrenadeFlashBang
+  groupBy: "secGrenade"
+
+- type: loadout
+  id: GrenadeStinger
+  storage:
+    belt:
+    - GrenadeStinger
+  groupBy: "secGrenade"
+
+- type: loadout
+  id: Flash
+  storage:
+    belt:
+    - Flash
+
+- type: loadout
+  id: PepperSpray
+  storage:
+    belt:
+    - PepperSpray
+
+- type: loadout
+  id: BolaEnergy
+  storage:
+    belt:
+    - BolaEnergy
+
+- type: loadout
+  id: HoloprojectorSecurity
+  storage:
+    belt:
+    - HoloprojectorSecurity
+  groupBy: "secUtility"
+
+- type: loadout
+  id: RadioHandheldSecurity
+  storage:
+    belt:
+    - RadioHandheldSecurity
+  groupBy: "secUtility"
+
+- type: loadout
+  id: PanicButton
+  storage:
+    belt:
+    - PanicButton
+  groupBy: "secUtility"
